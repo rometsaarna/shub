@@ -9,3 +9,4 @@ sHub is Windows application that merges together hardware devices, APIs and onli
 - mqtt enabled
 - sHub dashboard
 - Telegram bot integration
+- RemObjects Pascal Script
